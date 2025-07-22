@@ -44,7 +44,7 @@ This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sa
 
 ## 🖼 Dashboard Preview
 
-![Amazon Sales Dashboard](images/Dashboard Image.PNG)
+![Alt text][(images/Dashboard Image.PNG)](https://github.com/selvintuscano/abcd/blob/main/images/Dashboard%20Image.PNG)
 ---
 
 ## 🔗 Live Dashboard (Power BI Service)
