@@ -5,7 +5,7 @@ This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sa
 
 ---
 
-## 📊 Key Features
+### 📊 Key Features
 
 - 🟣 YTD & QTD Sales KPIs with dynamic DAX calculations.
 - 🟣 Weekly and Monthly sales trend lines.
@@ -15,7 +15,7 @@ This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sa
 
 ---
 
-## 🧠 Skills Demonstrated
+### 🧠 Skills Demonstrated
 
 - Data Modeling with star schema.
 - Advanced **DAX** for time intelligence (`TOTALYTD`, `QUARTER`, `CALCULATE`, `RANKX`).
@@ -25,7 +25,7 @@ This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sa
 
 ---
 
-## 📌 Business Insights
+### 📌 Business Insights
 
 - Sales peaked in **Q4**, suggesting seasonal demand.
 - **Men’s Shoes** and **Cameras** led revenue.
@@ -33,7 +33,7 @@ This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sa
 
 ---
 
-## 🚀 How to Use
+### 🚀 How to Use
 
 1. Open `Amazon-Sales-Product-Analytics.pbix` in Power BI Desktop.
 2. Use slicers to filter by product category or month.
@@ -42,12 +42,7 @@ This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sa
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Alt text][(images/Dashboard Image.PNG)](https://github.com/selvintuscano/abcd/blob/main/images/Dashboard%20Image.PNG)
----
-
-## 🔗 Live Dashboard (Power BI Service)
+### 🔗 Live Dashboard (Power BI Service)
 
 👉 [View on Power BI Service](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
