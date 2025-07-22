@@ -5,6 +5,11 @@ This Power BI dashboard provides an in-depth analysis of road accidents and casu
 
 ---
 
+### Dashboard Preview
+<img width="985" height="547" alt="image" src="https://github.com/user-attachments/assets/698330a2-b257-4bd1-b9ca-2fdece38b8b9" />
+
+
+---
 ### 📊 Key Features
 
 - 📆 **Year-over-Year Comparison** of casualties (Current Year vs Previous Year).
@@ -50,15 +55,6 @@ This Power BI dashboard provides an in-depth analysis of road accidents and casu
 👉 [View on Power BI Service](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 > *Requires Microsoft login access*
-
----
-
-### 📂 Dataset
-
-- Source: Simulated dataset based on typical Department of Transport schema.
-- Key fields:
-  - `Casualty_Type`, `Vehicle_Type`, `Light_Condition`
-  - `Accident_Location`, `Road_Type`, `Year`, `Casualty_Count`
 
 ---
 
