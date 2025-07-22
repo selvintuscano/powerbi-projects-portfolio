@@ -4,7 +4,12 @@
 This Power BI dashboard analyzes year-to-date (YTD) and quarter-to-date (QTD) sales and product review data from Amazon. It delivers insights into product category performance, weekly/monthly sales trends, and highlights the top-performing items.
 
 ---
+### 📸 Dashboard Preview
 
+<img width="1167" height="653" alt="image" src="https://github.com/user-attachments/assets/edf4fde1-2010-4eab-b7d8-a0f1a94bb03f" />
+
+
+---
 ### 📊 Key Features
 
 - 🟣 YTD & QTD Sales KPIs with dynamic DAX calculations.
